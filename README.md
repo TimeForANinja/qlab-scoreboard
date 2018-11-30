@@ -1,4 +1,4 @@
-# qlab counter
+# qlab scoreboard
 a simple, easy to expand qlab counter
   
 example counter for 2 teams can be found as scoreboard.qlab4  
